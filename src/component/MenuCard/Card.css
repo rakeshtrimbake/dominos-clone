@@ -1,0 +1,40 @@
+.card{
+   width:25%;
+   margin: 30px 30px;
+   padding-bottom: 2%;
+   background-color: white; 
+    
+}
+
+.card__img__info{
+    width:auto;
+    height: 150px;
+    
+    /* background-image: url("../../image/pizza1.jpg"); */
+    text-align: center;
+    
+}
+
+.card__info{
+    
+   flex-wrap: wrap;
+   width: 90%;
+   text-align: center;
+   
+}
+
+.card__description{
+    border-bottom: 1px solid lightgray;
+    align-items: center;
+    padding-bottom: 10px;
+
+}
+
+.card__add{
+    margin-top:20px !important;
+    border: 1px solid green !important;
+    box-shadow: 2px 1px 3px #eee;
+    left:45%;
+    color: #0d8a36 !important;
+    font-weight: 600 !important;
+}

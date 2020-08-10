@@ -1,0 +1,14 @@
+.widget{
+    margin: 5%;
+}
+
+.widget__card{
+    width: 20%;
+    position: fixed;
+    margin-top: 2%;
+    background-color: white;
+    height: 350px;
+    background-image: url("../../image/bag.jpg");
+    overflow-y: hidden;
+    
+}

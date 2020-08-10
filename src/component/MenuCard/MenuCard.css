@@ -1,0 +1,36 @@
+.menucard {
+ padding:40px;
+  display: block;
+}
+
+.menucard__card {
+  display: flex;
+  width:100%
+}
+
+.menucard__hr {
+  border: 1px solid rgb(145, 137, 137);
+  /* width: 802px !important; */
+  box-shadow: 2px 3px 2px #eee;
+  
+}
+
+.menucard__text{
+    font-size: large;
+    background-color: white;
+    padding:10px 10px;
+    margin-left: 30px;
+    align-items: center;
+    text-align: center;
+    border-radius: 100px;
+    color: green;
+    /* border: 2px solid black; */
+}
+
+.cards{
+  
+    display: flex;
+    flex-wrap: wrap;
+   
+   
+}
